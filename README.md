@@ -13,7 +13,6 @@ I am a Data Analyst focused on transforming business data into meaningful insigh
 * **Excel** — Advanced formulas, Pivot Tables, data analysis, reporting
 * **Python** — Currently learning Python for data analysis
 * **Pandas & NumPy** — Currently developing data-analysis skills
-* **Google Apps Script** — Reporting workflow automation
 * **GitHub** — Project version control and portfolio management
 
 ---
