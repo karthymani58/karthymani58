@@ -1,6 +1,13 @@
+<div align="center">
+
+<!-- If your uploaded file has a different name, replace 'karthik-profile.jpeg' below -->
+<img src="karthik-profile.jpeg" alt="M. Karthik" width="160" height="160" style="border-radius: 50%; object-fit: cover;" />
+
 # Hi, I'm M. Karthik 👋
 
 **Data Analyst** | **SQL** | **Power BI** | **Excel** | **Python**
+
+</div>
 
 I am a Data Analyst focused on transforming business data into meaningful insights and interactive dashboards.
 
