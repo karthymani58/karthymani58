@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- If your uploaded file has a different name, replace 'karthik-profile.jpeg' below -->
 <img src="karthik-profile.jpeg.jpeg" alt="M. Karthik" width="160" height="160" style="border-radius: 50%; object-fit: cover;" />
 
 # Hi, I'm M. Karthik 👋
@@ -55,5 +54,5 @@ To work as a **Data Analyst / BI Analyst** and use data, analytics, and visualiz
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthymani58&show_icons=true&theme=radial" alt="Karthik's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=karthymani58&show_icons=true&theme=radial" alt="Karthik's GitHub Stats" />
 </p>
