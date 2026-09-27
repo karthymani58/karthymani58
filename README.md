@@ -7,7 +7,7 @@
 **Data Analyst** | **B.Com (CA)** | **SQL** | **Power BI** | **Excel** | **Python**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik--m--online/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](karthymani58@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthymani58@gmail.com)
 
 </div>
 
