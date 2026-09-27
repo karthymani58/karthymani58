@@ -1,10 +1,13 @@
 <div align="center">
 
-<img src="karthik-profile.jpeg.jpeg" alt="M. Karthik" width="160" height="160" style="border-radius: 50%; object-fit: cover;" />
+<img src="karthik-profile.jpeg" alt="M. Karthik" width="160" height="160" style="border-radius: 50%; object-fit: cover;" />
 
 # Hi, I'm M. Karthik 👋
 
 **Data Analyst** | **B.Com (CA)** | **SQL** | **Power BI** | **Excel** | **Python**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
@@ -33,23 +36,23 @@ I am a **B.Com (Computer Applications)** graduate and aspiring Data Analyst curr
 
 ### 📊 Featured Projects
 
-#### 1. Sales & Revenue Analytics Dashboard
+#### 1. [Sales & Revenue Analytics Dashboard](#)
 * **Details:** Revenue, profit, orders, customers, product and regional analysis
 * **Tech Stack:** `SQL` + `Excel` + `Power BI`
 
-#### 2. Customer Segmentation & RFM Analysis
+#### 2. [Customer Segmentation & RFM Analysis](#)
 * **Details:** Customer recency, frequency, and monetary analysis
 * **Tech Stack:** `SQL` + `Python` + `Pandas` + `Power BI`
 
-#### 3. Marketing Campaign Performance Analysis
+#### 3. [Marketing Campaign Performance Analysis](#)
 * **Details:** Campaign spend, conversions, revenue, CTR, CPA, and ROAS
 * **Tech Stack:** `SQL` + `Excel` + `Power BI`
 
-#### 4. E-commerce Product & Profitability Analysis
+#### 4. [E-commerce Product & Profitability Analysis](#)
 * **Details:** Product performance, revenue, cost, profit, and margin analysis
 * **Tech Stack:** `SQL` + `Python` + `Pandas` + `Power BI`
 
-#### 5. HR Employee Attrition Analysis
+#### 5. [HR Employee Attrition Analysis](#)
 * **Details:** Employee attrition, salary, department, role, and satisfaction analysis
 * **Tech Stack:** `Python` + `Pandas` + `SQL` + `Power BI`
 
