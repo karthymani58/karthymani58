@@ -12,12 +12,12 @@ I am a **B.Com (Computer Applications)** graduate and aspiring Data Analyst curr
 
 ---
 
-### 🎓 Education & Upskilling
+### 🎓 Education & Certification
 
 * **Data Analytics Certification Program** — Entri (In Progress)
   * *Focus:* Advanced SQL, Power BI Dashboarding, Python for Data Analysis (Pandas, NumPy), and Data Cleaning.
 * **Bachelor of Commerce in Computer Applications (B.Com CA)**
-  * *Key Areas:* Business Accounting, Financial Management, Computer Applications, and Data Processing.
+  * *Key Focus:* Business Accounting, Financial Metrics, Computer Applications, and Data Processing.
 
 ---
 
@@ -27,7 +27,7 @@ I am a **B.Com (Computer Applications)** graduate and aspiring Data Analyst curr
 * **Power BI** — Interactive Dashboard Development, KPIs, Data Modeling, DAX
 * **Excel** — Advanced Formulas (VLOOKUP/XLOOKUP, INDEX/MATCH), Pivot Tables, Reporting
 * **Python** — Pandas & NumPy for Data Manipulation & Cleaning *(Currently mastering at Entri)*
-* **Business & Domain Knowledge** — Accounting, Financial Metrics, E-commerce Profitability, Customer RFM
+* **Business Domain Knowledge** — Accounting Principles, Financial Metrics, E-commerce Profitability, Customer RFM
 
 ---
 
