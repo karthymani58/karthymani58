@@ -4,22 +4,30 @@
 
 # Hi, I'm M. Karthik 👋
 
-**Data Analyst** | **SQL** | **Power BI** | **Excel** | **Python**
+**Data Analyst** | **B.Com (CA)** | **SQL** | **Power BI** | **Excel** | **Python**
 
 </div>
 
-I am a Data Analyst focused on transforming business data into meaningful insights and interactive dashboards.
+I am a **B.Com (Computer Applications)** graduate and aspiring Data Analyst currently upskilling with **Entri's Data Analytics Program**. I specialize in bridging business domain knowledge with data visualization, SQL querying, and financial/sales analytics.
+
+---
+
+### 🎓 Education & Upskilling
+
+* **Data Analytics Certification Program** — Entri (In Progress)
+  * *Focus:* Advanced SQL, Power BI Dashboarding, Python for Data Analysis (Pandas, NumPy), and Data Cleaning.
+* **Bachelor of Commerce in Computer Applications (B.Com CA)**
+  * *Key Areas:* Business Accounting, Financial Management, Computer Applications, and Data Processing.
 
 ---
 
 ### 🛠️ Skills
 
-* **SQL** — Data extraction, joins, aggregations, CTEs, window functions
-* **Power BI** — Dashboard development, KPIs, DAX, data visualization
-* **Excel** — Advanced formulas, Pivot Tables, data analysis, reporting
-* **Python** — Currently learning Python for data analysis
-* **Pandas & NumPy** — Currently developing data-analysis skills
-* **GitHub** — Project version control and portfolio management
+* **SQL** — Data extraction, Joins, Aggregations, Group By, Subqueries, CTEs, Window functions
+* **Power BI** — Interactive Dashboard Development, KPIs, Data Modeling, DAX
+* **Excel** — Advanced Formulas (VLOOKUP/XLOOKUP, INDEX/MATCH), Pivot Tables, Reporting
+* **Python** — Pandas & NumPy for Data Manipulation & Cleaning *(Currently mastering at Entri)*
+* **Business & Domain Knowledge** — Accounting, Financial Metrics, E-commerce Profitability, Customer RFM
 
 ---
 
@@ -30,26 +38,26 @@ I am a Data Analyst focused on transforming business data into meaningful insigh
 * **Tech Stack:** `SQL` + `Excel` + `Power BI`
 
 #### 2. Customer Segmentation & RFM Analysis
-* **Details:** Customer recency, frequency and monetary analysis
+* **Details:** Customer recency, frequency, and monetary analysis
 * **Tech Stack:** `SQL` + `Python` + `Pandas` + `Power BI`
 
 #### 3. Marketing Campaign Performance Analysis
-* **Details:** Campaign spend, conversions, revenue, CTR, CPA and ROAS
+* **Details:** Campaign spend, conversions, revenue, CTR, CPA, and ROAS
 * **Tech Stack:** `SQL` + `Excel` + `Power BI`
 
 #### 4. E-commerce Product & Profitability Analysis
-* **Details:** Product performance, revenue, cost, profit and margin analysis
+* **Details:** Product performance, revenue, cost, profit, and margin analysis
 * **Tech Stack:** `SQL` + `Python` + `Pandas` + `Power BI`
 
 #### 5. HR Employee Attrition Analysis
-* **Details:** Employee attrition, salary, department, role and satisfaction analysis
+* **Details:** Employee attrition, salary, department, role, and satisfaction analysis
 * **Tech Stack:** `Python` + `Pandas` + `SQL` + `Power BI`
 
 ---
 
 ### 🎯 Career Goal
 
-To work as a **Data Analyst / BI Analyst** and use data, analytics, and visualization to solve real-world business problems and support better decision-making.
+To leverage my **B.Com (CA)** background and analytical toolkit as a **Data Analyst / BI Analyst**, solving real-world business problems and enabling data-driven decisions.
 
 ---
 
