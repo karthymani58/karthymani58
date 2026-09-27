@@ -54,5 +54,5 @@ To work as a **Data Analyst / BI Analyst** and use data, analytics, and visualiz
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=karthymani58&show_icons=true&theme=radial" alt="Karthik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karthymani58&show_icons=true&theme=radial" alt="Karthik's GitHub Stats" />
 </p>
